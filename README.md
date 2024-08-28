@@ -1,1 +1,1 @@
-*Kalkulator BMI*
+Kalkulator BMI
